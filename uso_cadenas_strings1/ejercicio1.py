@@ -1,9 +1,9 @@
 nombre = input("nombre: ")
 numero = input("introduce el numero entero: ")
 
-def conteoName ():
+def numeros ():
     print((nombre +", ") * int(numero))
     
     
 
-conteoName()
+numeros()
